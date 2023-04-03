@@ -29,3 +29,8 @@ a different data set. This performance should be back-tested.
 We highlight some limitations of the findings as the work has been done on a relatively small, sparse
 and unbalanced data set. Further work may affect first findings. However we clearly prove the relevancy of
 attention-based models for sports analytic, especially in the NFL.
+
+
+![Attention examples from trajectories, first attention layer](https://github.com/samchaineau/StratFormer/blob/main/Example_1_Attention_1.png?raw=true)
+![Attention examples from trajectories, second attention layer](https://github.com/samchaineau/StratFormer/blob/main/Example_1_Attention_2.png?raw=true)
+![Attention examples from trajectories, third attention layer](https://github.com/samchaineau/StratFormer/blob/main/Example_1_Attention_3.png?raw=true)
