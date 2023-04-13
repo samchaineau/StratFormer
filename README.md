@@ -6,7 +6,7 @@ This repo contains the draft version of the report and will have proper code add
 
 In the meanwhile, if you are interested by the project do not hesitate to reach out to me !
 
-Report : https://github.com/samchaineau.github.com/StratFormer/report/StratFormer.pdf
+Report : https://github.com/samchaineau.github.com/StratFormer/blob/main/report/StratFormer.pdf
 
 Contact : sam.chaineau@gmail.com
 
