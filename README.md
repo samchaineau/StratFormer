@@ -8,9 +8,6 @@ In the meanwhile, if you are interested by the project do not hesitate to reach 
 
 Report : https://github.com/samchaineau/StratFormer/blob/main/report/StratFormer.pdf
 
-Contact : sam.chaineau@gmail.com
-
-
 ## Abstract 
 
 This report presents "StratFormer”, an attention-based model applied on NFL data. The model extracts
